@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a target="_blank" href="https://www.youtube.com/@CodedRealityXR">
-    <img src="./assets/GITHUB AR001.jpeg" alt="Logo" width="100%">
+    <img src="./assets/GITHUB.AR.001.jpeg" alt="Logo" width="100%">
   </a>
 </div>
 
